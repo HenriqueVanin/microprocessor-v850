@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<ProjectRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Header>MicroProcessador</Header>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>PC.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>PC_tb.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>ROM.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>ROM_tb.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>StateMachine_tb.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>TopLevel.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>TopLevel_tp.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>Ula.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>Ula_tb.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>banco_reg.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>banco_reg_tb.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>maq_estado_2bits.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>maq_estados.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>menor.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>menor_tb.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>mux4.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>mux_2.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>mux_4.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>mux_8.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>mux_8_tb.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>processador.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>reg16bits.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>reg16bits_tb.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>soma.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>soma_tb.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>subtracao.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>subtracao_tb.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>unidade_controle.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>unidade_controle_tb.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>xor_ula.vhd</Header>
+  </Items>
+  <Items xsi:type="ProjectFileVHDL">
+    <Header>xor_ula_tb.vhd</Header>
+  </Items>
+  <CruviHSExtensions>
+    <string xsi:nil="true" />
+  </CruviHSExtensions>
+  <CruviLSExtensions>
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+    <string xsi:nil="true" />
+  </CruviLSExtensions>
+  <IOVoltage>0</IOVoltage>
+  <HardwareStartPathRelative>TopLevel_tp.vhd</HardwareStartPathRelative>
+  <UseShield>false</UseShield>
+</ProjectRoot>
